@@ -4,7 +4,7 @@ In this repositoty, I explained how two run two Basler-USB 3.0 Cameras with thei
 
 1- Go to (Basler website)[baslerweb.com] and download the Pylon Viewer. For my case, it was `pylon 7.0.0 Camera Software Suite Linux x86 (64 Bit) - Debian Installer Package`.
 
-2 Then, according to its README file install the `Pylon Viewer`.
+2 Then, according to its README file, install the `Pylon Viewer`.
 
 3- Make sure you do the `USB3 Vision cameras` part in the README file. If you face error related to grub2-config, go to the file that it mentions the error occures, then change grub2 to grub.
 
