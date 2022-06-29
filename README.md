@@ -25,12 +25,12 @@ In our case, we set one of them as `ros_basler_left` and `ros_basler_right`.
 
 8- Then go to ROS Pylon package on your catkin workstation, and delete `launch` and `config` files, and replace them with `launch` and `config` files that are available in this repository.
 
-9- Then, you can use one of cameras by 
+9- You can use one of cameras by 
 ```
 roslaunch pylon_camera pylon_camera_node.launch 
 ```
 
-10- Then, you can use two of cameras by 
+10- You can use two of cameras by 
 ```
 roslaunch pylon_camera pylon_camera_node_2RGB.launch 
 ```
