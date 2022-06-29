@@ -17,7 +17,7 @@ rosrun pylon_camera set_device_usr_id your_device_user_id
 ```
 It will not take effect untill you plug and unplug the Camera.
 
-In our case, we set one of them as `ros_basler_left` and `ros_basler_right`.
+In our case, we set one of them as `ros_basler_left` and the other as `ros_basler_right`.
 
 6- Then, open Pylon Viewer, and according to its documentation, set desired features for each camera. For example, features like gain, exposure, white balance, etc.
 
