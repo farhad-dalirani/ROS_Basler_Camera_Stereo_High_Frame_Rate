@@ -6,7 +6,7 @@ In this repositoty, I explained how two run two Basler-USB 3.0 Cameras with thei
 
 2 Then, according to its README file install the `Pylon Viewer`.
 
-3- Make sure you do the `USB3 Vision cameras` part in the README file. If you face error related to grub2-config, go to the file that it mentions the error occure, then change grub2 to grub.
+3- Make sure you do the `USB3 Vision cameras` part in the README file. If you face error related to grub2-config, go to the file that it mentions the error occures, then change grub2 to grub.
 
 4- Then go to (pylon ROS package)[https://github.com/basler/pylon-ros-camera] on github and install it accoding to its instructions.
 
