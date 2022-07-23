@@ -1,4 +1,4 @@
-# ROS Basler Camera-USB 3.0 Stereo High Frame Rate
+# ROS Basler Camera-USB 3.0 Stereo System High Frame Rate
 
 In this repositoty, I explained how two run two Basler-USB 3.0 Cameras with their maximum frame rate on ROS (Robotic Operating System) on Ubuntu 18.04.
 
