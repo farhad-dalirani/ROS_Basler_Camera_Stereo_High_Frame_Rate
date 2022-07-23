@@ -32,7 +32,7 @@ roslaunch pylon_camera pylon_camera_node.launch
 
 10- You can use two of cameras by 
 ```
-roslaunch pylon_camera pylon_camera_node_2RGB.launch 
+roslaunch pylon_camera pylon_camera_node_2bayer.launch 
 ```
 
 
